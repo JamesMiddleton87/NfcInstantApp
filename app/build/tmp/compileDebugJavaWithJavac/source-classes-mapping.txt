@@ -1,0 +1,12 @@
+com/google/android/instantapps/samples/install/BuildConfig.java
+ com.google.android.instantapps.samples.install.BuildConfig
+com/google/android/instantapps/samples/install/databinding/ActivityNfcScannerBinding.java
+ com.google.android.instantapps.samples.install.databinding.ActivityNfcScannerBinding
+com/google/android/instantapps/samples/install/databinding/ContentNfcScannerBinding.java
+ com.google.android.instantapps.samples.install.databinding.ContentNfcScannerBinding
+com/google/android/instantapps/samples/install/databinding/ActivityInstallBinding.java
+ com.google.android.instantapps.samples.install.databinding.ActivityInstallBinding
+com/google/android/instantapps/samples/install/databinding/FragmentFirstBinding.java
+ com.google.android.instantapps.samples.install.databinding.FragmentFirstBinding
+com/google/android/instantapps/samples/install/databinding/FragmentSecondBinding.java
+ com.google.android.instantapps.samples.install.databinding.FragmentSecondBinding

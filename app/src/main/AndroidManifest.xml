@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.google.android.instantapps.samples.install">
+
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity
+            android:name=".NfcScannerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_nfc_scanner"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".InstallApiActivity"
+            android:exported="true"
+            android:label="@string/title_activity_store"
+            android:theme="@style/AppTheme">
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="default-url"
+                android:value="https://install-api.instantappsample.com" />
+
+            <!-- <meta-data android:name="android.nfc.action.TECH_DISCOVERED" -->
+            <!-- android:resource="@xml/techlist" /> -->
+
+            <intent-filter android:order="2">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="install-api.instantappsample.com"
+                    android:scheme="https" />
+            </intent-filter>
+            <intent-filter android:order="2">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="install-api.instantappsample.com"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
