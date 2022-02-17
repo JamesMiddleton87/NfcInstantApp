@@ -17,16 +17,17 @@
 <resources>
     <string name="app_name">Install API</string>
     <string name="title_activity_store">Install Sample</string>
-    <string name="start_nfc_scanner">Start NFC scan</string>
-    <string name="install_text">This sample shows how to use the install API.
-        In order to launch the installation, press the button at the bottom of the screen.</string>
+    <string name="start_nfc_scanner">Let\'s start!</string>
+    <string name="install_text">Welcome to Sky Instant App!\n </string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
+    <string name="first_fragment_label">NFC Scanner</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
     <string name="title_activity_nfc_scanner">title_activity_nfc_scanner</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="nfc_scan">Almost there! \nScan NFC tag for more instructions. \n</string>
+    <string name="nfc_scan_data">The tag data: \n</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>

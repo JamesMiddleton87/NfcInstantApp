@@ -19,11 +19,19 @@ public final class FragmentFirstBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final TextView dataScan;
+
+  @NonNull
+  public final TextView intro;
+
+  @NonNull
   public final TextView textviewFirst;
 
-  private FragmentFirstBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textviewFirst) {
+  private FragmentFirstBinding(@NonNull ConstraintLayout rootView, @NonNull TextView dataScan,
+      @NonNull TextView intro, @NonNull TextView textviewFirst) {
     this.rootView = rootView;
+    this.dataScan = dataScan;
+    this.intro = intro;
     this.textviewFirst = textviewFirst;
   }
 
@@ -54,13 +62,25 @@ public final class FragmentFirstBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.dataScan;
+      TextView dataScan = rootView.findViewById(id);
+      if (dataScan == null) {
+        break missingId;
+      }
+
+      id = R.id.intro;
+      TextView intro = rootView.findViewById(id);
+      if (intro == null) {
+        break missingId;
+      }
+
       id = R.id.textview_first;
       TextView textviewFirst = rootView.findViewById(id);
       if (textviewFirst == null) {
         break missingId;
       }
 
-      return new FragmentFirstBinding((ConstraintLayout) rootView, textviewFirst);
+      return new FragmentFirstBinding((ConstraintLayout) rootView, dataScan, intro, textviewFirst);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -2740,6 +2740,7 @@ id custom
 id customPanel
 id cut
 id dark
+id dataScan
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2822,6 +2823,7 @@ id immediateStop
 id included
 id info
 id inspection_slot_table_set
+id intro
 id invisible
 id inward
 id italic
@@ -3440,6 +3442,8 @@ string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
 string navigation_menu
 string next
+string nfc_scan
+string nfc_scan_data
 string not_selected
 string off
 string on
