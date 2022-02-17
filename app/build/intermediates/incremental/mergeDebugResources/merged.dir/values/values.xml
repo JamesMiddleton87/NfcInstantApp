@@ -5614,7 +5614,7 @@
     <item name="windowActionBar">false</item>
     <item name="windowNoTitle">true</item>
   </style>
-    <style name="Theme.Installapi.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Installapi.AppBarOverlay" parent="ThemeOverlay.AppCompat.DayNight.ActionBar"/>
     <style name="Theme.Installapi.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
     <style name="Theme.Material3.Dark" parent="Base.Theme.Material3.Dark"/>
     <style name="Theme.Material3.Dark.BottomSheetDialog" parent="Base.Theme.Material3.Dark.BottomSheetDialog"/>
