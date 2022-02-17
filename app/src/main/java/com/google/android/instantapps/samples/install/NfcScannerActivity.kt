@@ -36,6 +36,7 @@ class NfcScannerActivity : AppCompatActivity() {
 
         setSupportActionBar(binding.toolbar)
 
+        Log.e("TEST", "IMAGE HERE ")
         val navController = findNavController(R.id.nav_host_fragment_content_nfc_scanner)
         appBarConfiguration = AppBarConfiguration(navController.graph)
         setupActionBarWithNavController(navController, appBarConfiguration)
@@ -88,7 +89,10 @@ class NfcScannerActivity : AppCompatActivity() {
             payloads.forEach { record ->
                 text += "\n" + parseMultiMessages(record.payload)
             }
+            Log.e("TEST", "IMAGE text: " + text)
+
             mv.setText(text)
+            findViewById<TextView>(R.id.textview_first).text = mv.getText()
             Log.e("ans", "IS Connected data:" + mv.getText())
         }
     }

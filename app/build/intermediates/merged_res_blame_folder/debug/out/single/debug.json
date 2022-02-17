@@ -1,50 +1,50 @@
 [
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/layout_fragment_second.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/fragment_second.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/layout_content_nfc_scanner.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/content_nfc_scanner.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/layout_fragment_second.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/fragment_second.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/layout_activity_install.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/activity_install.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/xml_techlist.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/xml/techlist.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/navigation/nav_graph.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/layout_activity_nfc_scanner.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/activity_nfc_scanner.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/layout_fragment_first.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/fragment_first.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/layout_fragment_first.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/fragment_first.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/layout_content_nfc_scanner.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/content_nfc_scanner.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/navigation/nav_graph.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/xml_techlist.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/xml/techlist.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/layout_activity_install.xml.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/activity_install.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/layout_activity_nfc_scanner.xml.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/activity_nfc_scanner.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

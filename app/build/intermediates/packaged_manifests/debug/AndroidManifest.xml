@@ -23,7 +23,8 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:label="@string/app_name"
-        android:supportsRtl="true" >
+        android:supportsRtl="true"
+        android:testOnly="true" >
         <activity
             android:name="com.google.android.instantapps.samples.install.NfcScannerActivity"
             android:exported="false"

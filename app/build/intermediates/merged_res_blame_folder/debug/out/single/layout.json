@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/fragment_first.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_nfc_scanner.xml",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/content_nfc_scanner.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_install.xml",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/activity_install.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/fragment_second.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/fragment_second.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_install.xml",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/activity_install.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_nfc_scanner.xml",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/content_nfc_scanner.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_nfc_scanner.xml",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/activity_nfc_scanner.xml"
     },
     {
-        "merged": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_nfc_scanner.xml",
-        "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/layout/activity_nfc_scanner.xml"
+        "merged": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/layout/fragment_first.xml"
     }
 ]

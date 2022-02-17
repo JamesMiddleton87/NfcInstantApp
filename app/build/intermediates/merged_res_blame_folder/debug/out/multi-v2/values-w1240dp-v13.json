@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "outputFile": "/Users/abe29/src/instant/NfcInstantApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/jmi57/Repos/app-bundle-samples/InstantApps/install-api/app/src/main/res/values-w1240dp/dimens.xml",
+                    "source": "/Users/abe29/src/instant/NfcInstantApp/app/src/main/res/values-w1240dp/dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
